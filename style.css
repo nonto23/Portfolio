@@ -125,7 +125,7 @@ html{
  .showcase {
      grid-area: showcase;
      min-height: 300px;
-     background: url(/home/recruit/Desktop/MyPortfolio/images/orlova-maria-h4EUlv6N3Os-unsplash.jpg);
+     background: url(images/orlova-maria-h4EUlv6N3Os-unsplash.jpg);
      /*background-size: cover;*/
      background-position-x: center;
      padding: 3rem;
@@ -198,7 +198,7 @@ html{
 }
  .Media ul{
     display:grid;
-     background: url(/home/recruit/Desktop/MyPortfolio/images/orlova-maria-h4EUlv6N3Os-unsplash.jpg);
+     background: url(images/orlova-maria-h4EUlv6N3Os-unsplash.jpg);
      padding: 3em;
      color:var(--dark);
     list-style: none;
